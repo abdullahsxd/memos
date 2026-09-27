@@ -8,9 +8,10 @@ Micro Desk is a personal research project analysing potential acquisition target
 
 ## Memos
 
-| #   | Company         | Memo                                     |
-| --- | --------------- | ---------------------------------------- |
-| 001 | **Nichols plc** | [Read memo →](./memo/001-nichols-plc.md) |
+* **001 — Nichols plc**
+* **002 —**
+* **003 —**
+* **004 —**
 
 ## Approach
 
@@ -33,3 +34,4 @@ It is **not a registered entity, investment fund, trading business, or financial
 Research is published for informational and educational purposes only and does not constitute financial, investment, legal, or tax advice.
 
 No investment recommendations are made or solicited.
+
