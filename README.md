@@ -8,21 +8,28 @@ Micro Desk is a personal research project analysing potential acquisition target
 
 ## Memos
 
-| # | Company | Memo |
-|---|---|---|
-| 001 | Nichols plc | [Read memo](./memos/001-nichols-plc.md) |
+| #   | Company         | Memo                                     |
+| --- | --------------- | ---------------------------------------- |
+| 001 | **Nichols plc** | [Read memo →](./memo/001-nichols-plc.md) |
 
 ## Approach
 
 Each memo examines:
-- Business overview and financial performance
-- Strategic rationale
-- Valuation
-- Deal structure
-- Value creation plan
-- Key risks
-- Verdict
+
+* Business overview and financial performance
+* Strategic rationale
+* Valuation
+* Deal structure
+* Value creation plan
+* Key risks
+* Verdict
 
 ## Disclaimer
 
-Micro Desk is personal, unpaid analytical work. It is not a registered entity, investment fund, trading business, or financial adviser. Research is published for informational and educational purposes only and does not constitute financial, investment, legal, or tax advice. No investment recommendations are made or solicited.
+Micro Desk is personal, unpaid analytical work.
+
+It is **not a registered entity, investment fund, trading business, or financial adviser**.
+
+Research is published for informational and educational purposes only and does not constitute financial, investment, legal, or tax advice.
+
+No investment recommendations are made or solicited.
